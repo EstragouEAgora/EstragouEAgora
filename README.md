@@ -1,8 +1,24 @@
-<b>Estragou, e agora?</b>
+<h1>Estragou, e agora?</h1>
 
-👩🏻‍🎓 | Projeto de TCC - Técnico em Informática
+👩🏻‍🎓 | Projeto de Conclusão de Curso
+
+💻 | Estágio do Curso Técnico em Informática
 
 ✉ | Email: projetoestragoueagora@gmail.com
+
+#
+
+
+<h3>🥇 Membros:</h3>
+
+🥰 | <a href="https://github.com/acsasilveira">Acsa Silveira</a>
+
+😎 | <a href="https://github.com/andressa0102">Andressa de Oliveira Salles</a>
+
+😅 | <a href="https://github.com/feliperalves">Felipe Rocha Alves</a>
+
+😁 | <a href="https://github.com/LunaCastro">Luna Pereira de Castro</a>
+
 
 #
 
