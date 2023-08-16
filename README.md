@@ -1,4 +1,4 @@
-🧑‍🏭 | Estragou, e agora?
+<b>Estragou, e agora?</b>
 
 👩🏻‍🎓 | Projeto de TCC - Técnico em Informática
 
